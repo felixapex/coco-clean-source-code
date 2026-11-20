@@ -4,6 +4,7 @@ import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 
 const REQUIRED_FILES = [
+  '.gitattributes',
   'README.md',
   'IMPLEMENTATION-STATUS.md',
   'TEST-EVIDENCE.md',
@@ -74,6 +75,7 @@ async function listFiles(root) {
       if (entry.isSymbolicLink()) {
         links.push(relative);
       } else if (entry.isDirectory()) {
+        if (entry.name === '.git') continue;
         await walk(absolute);
       } else if (entry.isFile()) {
         files.push(relative);
