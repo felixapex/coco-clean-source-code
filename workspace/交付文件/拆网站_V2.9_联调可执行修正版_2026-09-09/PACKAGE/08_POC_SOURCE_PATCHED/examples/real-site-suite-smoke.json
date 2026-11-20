@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "name": "environment-smoke-only",
+  "releaseGates": {
+    "minSites": 1,
+    "minCoverage": 0.98,
+    "minClusteringF1": 0.85,
+    "maxOverMergeRate": 0.05,
+    "maxUnderMergeRate": 0.12,
+    "minSemanticRoleAccuracy": 0.90,
+    "minVariantAccuracy": 0.80,
+    "minStateF1": 0.80,
+    "minPerSiteCoverage": 0.90,
+    "minPerSiteClusteringF1": 0.75
+  },
+  "sites": [
+    {
+      "id": "example-smoke",
+      "url": "https://example.com/",
+      "authorization": {
+        "status": "public-benchmark",
+        "attestedBy": "environment-smoke",
+        "attestedAt": "2026-08-17T18:00:00Z",
+        "evidence": "IANA example domain; used only to test network/browser reachability, not component accuracy."
+      },
+      "capturePolicy": {
+        "robots": "respect",
+        "maxPages": 1,
+        "timeoutMs": 15000
+      }
+    }
+  ]
+}

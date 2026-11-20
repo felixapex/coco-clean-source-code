@@ -1,0 +1,32 @@
+{
+  "name": "matbox-website-component-engine-poc",
+  "version": "2.9.1",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13 <23"
+  },
+  "dependencies": {
+    "pngjs": "7.0.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "test": "node scripts/run-tests.mjs",
+    "demo": "node src/cli/capture-fixture-demo.mjs",
+    "verify": "node scripts/verify.mjs",
+    "demo:site": "node src/cli/run-site-fixture-demo.mjs",
+    "url": "node src/cli/url-to-components.mjs",
+    "demo:complex": "node src/cli/run-complex-site-demo.mjs",
+    "demo:table": "node src/cli/run-data-table-state-demo.mjs",
+    "compile:react": "node src/cli/compile-ir-to-react.mjs",
+    "demo:visual": "node src/cli/run-visual-fidelity-demo.mjs",
+    "capture:replay": "node src/cli/capture-site-replay.mjs",
+    "benchmark": "node src/cli/run-golden-benchmark.mjs",
+    "demo:benchmark": "node src/cli/run-golden-benchmark-demo.mjs",
+    "capture:real": "node src/cli/capture-real-site-suite.mjs",
+    "golden:draft": "node src/cli/create-golden-drafts.mjs",
+    "benchmark:release": "node src/cli/run-real-release-benchmark.mjs"
+  }
+}

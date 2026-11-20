@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "verifiedAt": "2026-11-21",
+  "scope": "current-implemented-source-only",
+  "browserPolicy": {
+    "microsoftEdgeForbidden": true,
+    "verifiedWith": "isolated Google Chrome"
+  },
+  "tests": {
+    "sharedCore": { "passed": 131, "failed": 0 },
+    "importFoundation": { "passed": 117, "failed": 0 },
+    "homepageExperiments": { "passed": 4, "failed": 0 },
+    "cocoTargetedRegression": {
+      "passed": 80,
+      "failed": 0,
+      "artifactDependentNotRun": 1
+    },
+    "typescript": { "passed": true }
+  },
+  "excludedGeneratedData": [
+    "dist",
+    "src/replay generated pages and media",
+    "artifacts",
+    "node_modules",
+    "historical benchmark results"
+  ],
+  "notes": "Unimplemented capabilities remain explicitly unimplemented; no placeholder implementation was added."
+}
