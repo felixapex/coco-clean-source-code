@@ -1,0 +1,510 @@
+{
+  "generatedAt": "2026-11-28T18:47:27.6352915+08:00",
+  "archiveFile": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz",
+  "archiveBytes": 2079336776,
+  "archiveSha256": "33870fc59449221b1903dfdccc4124a42ff06be70aafaed4143696fdc1b2c229",
+  "partSizeBytes": 20971520,
+  "partCount": 100,
+  "parts": [
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.001",
+      "bytes": 20971520,
+      "sha256": "9335af4cc25578ae2869e836e007166645e5a00bdc417af9e5fc9b5e74971625"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.002",
+      "bytes": 20971520,
+      "sha256": "a09adfa5f862be8ac37229e3fbb35e6a5d4b38ecd63563e29da7faee4703e287"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.003",
+      "bytes": 20971520,
+      "sha256": "91a99b273db1999275906c08713fd4363ee07f271f5010a3016d46b46e064305"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.004",
+      "bytes": 20971520,
+      "sha256": "ae2b91a9a3d52f0643a1a125483bf1fa7506b32cad6b17f8412998653a800fdd"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.005",
+      "bytes": 20971520,
+      "sha256": "dc7a52d133f5aa4b97343e5ee9b5dc96b22a025f8d68a9674bd723b1920c4e6a"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.006",
+      "bytes": 20971520,
+      "sha256": "fb4b2134b2726b44aaf2e09148517adce72d488b2437329b5cdf36a02b140311"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.007",
+      "bytes": 20971520,
+      "sha256": "ff5a3a38d2018a8600e34516e9fc5a1e39da2cfc27b0ec77cbe9770e93030fef"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.008",
+      "bytes": 20971520,
+      "sha256": "e2df6febdc3ba22a11f2620355276430510063773ef05a3a4947b63736120a35"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.009",
+      "bytes": 20971520,
+      "sha256": "2ecf067404dc29fc639e048105f4b7fa2f3c22c1e7912f70113bf6b719ab419c"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.010",
+      "bytes": 20971520,
+      "sha256": "6d04cf7dd0857e296af0783b72f79e8a7b146ff21073d40afe2231c58bb8dcb1"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.011",
+      "bytes": 20971520,
+      "sha256": "c64e35ceaf3040dda5e6b6ca2d161fd36726eb6f8827cc8177cf585c9944f59f"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.012",
+      "bytes": 20971520,
+      "sha256": "8a34a636a7b4ae1b95c0e72f549d85f20cfa175143826cb1e00a18fc1197ca8f"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.013",
+      "bytes": 20971520,
+      "sha256": "ae384719927f3b2549266cd78fd2f495c2407f96d85f1147b9addc5e2ac1e59e"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.014",
+      "bytes": 20971520,
+      "sha256": "9fd8ecc67f771407787a4bad619d8836bacd1319090287bc80c9cdd44e120b71"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.015",
+      "bytes": 20971520,
+      "sha256": "e8cd94782fa4d2778604951a8055f63999159dde2336e128e8b7f8b109c7cec1"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.016",
+      "bytes": 20971520,
+      "sha256": "a1d388b937e2bc579a0a95a8929595c262c03f638298a4d11a6c21f125e2b5dc"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.017",
+      "bytes": 20971520,
+      "sha256": "591aa381870e99b5cbea2b1679ad379dc4fc23d1de465c3d81800d3cb486440c"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.018",
+      "bytes": 20971520,
+      "sha256": "b9c3b6a70e227c5bc24d68e986c3d970275293c0a496cfd369b96d547fa9be46"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.019",
+      "bytes": 20971520,
+      "sha256": "13a9b053cc9b3266e7342ea710471d35f054b56d991c88293cce8317946f03dd"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.020",
+      "bytes": 20971520,
+      "sha256": "d9833325ce11807ca1c360387744c9c2bad592ff4cd477b14f05ec5345a519ee"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.021",
+      "bytes": 20971520,
+      "sha256": "285bef77ce5ea90d09f1a6fa4a695923c1cfab0b37194badc73fa3657d33f0dc"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.022",
+      "bytes": 20971520,
+      "sha256": "a195aa53eafefda92873e42702d9177d784c509a095449de6241e0e3764fed3e"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.023",
+      "bytes": 20971520,
+      "sha256": "da30a0f9b1c350f70ba4236f05e6f6d10dc739a15ea4d167a295493b2a8e5f40"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.024",
+      "bytes": 20971520,
+      "sha256": "f7f5e533dd693b03c2af384ec8b39a4fabacb319b0efb333907cecfaa6a79203"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.025",
+      "bytes": 20971520,
+      "sha256": "96736aa8a53e4c889500069595a2c39eee3c364514f594dab09138fb15753d49"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.026",
+      "bytes": 20971520,
+      "sha256": "fee4291a8c124e31c4f2c0179cbaac452d460a9e8fcbb7c3528d0a63ad1176ec"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.027",
+      "bytes": 20971520,
+      "sha256": "e2ea80d4b07230088c29684a3ab2675fa6565ba900f4ba4362b32969b035f6d0"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.028",
+      "bytes": 20971520,
+      "sha256": "914aa0dce36df8e2ec7a7319009437ba3ca10d9b45cdcaa90172945b8caf7f9a"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.029",
+      "bytes": 20971520,
+      "sha256": "441030efaa5b449a3adba859de0835f95fb07db55f98338b2716654b7b3c3095"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.030",
+      "bytes": 20971520,
+      "sha256": "5016fcd2fb040d1ea851f6a22bd14d9ffd2823c3a2c9817e24e714347140e29a"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.031",
+      "bytes": 20971520,
+      "sha256": "b0449ff5457c7a7b2b41f6e1f12c1a489588c2ad07db90db78cc5721bb4c8908"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.032",
+      "bytes": 20971520,
+      "sha256": "4f6f8c7e18444e9e06bbf59bac8b0c62578baafdd32cc9207d69efa721a5bae0"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.033",
+      "bytes": 20971520,
+      "sha256": "d2bb32802d324eb35874668e64dafb0aca6e605c219a01161db8310f8cc56e90"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.034",
+      "bytes": 20971520,
+      "sha256": "3a4eb6c1ba988da08b70cbb3eac7969ca905db8ad6dbed6dbe19fd5da07b3269"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.035",
+      "bytes": 20971520,
+      "sha256": "52b5897065a3d2c4dba0bf1e4a02087b68b7c9e17583b8fd45dc3477532af72c"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.036",
+      "bytes": 20971520,
+      "sha256": "268a22366ac2f36b187e83888c87c9c18e3bef92308a0926885d23da46e7d183"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.037",
+      "bytes": 20971520,
+      "sha256": "77f7c12d740a17cd755956cd566484bf6f691ce0160da4cbcd7cc059d8d1f802"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.038",
+      "bytes": 20971520,
+      "sha256": "f0b0b69f67582de47914b9f3483c8d08bd620cd298634a9a978bc2bcb181b22a"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.039",
+      "bytes": 20971520,
+      "sha256": "24f1b31655ad6f7b56db5505f94ae851a2893a0f507bafbd3607bd75852f59e5"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.040",
+      "bytes": 20971520,
+      "sha256": "70229f4de605f158309a3a402d4cbcc3cf0234426d2e4623ff13f5b3576da1d6"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.041",
+      "bytes": 20971520,
+      "sha256": "c48e5b672259dfe2a490afe5222b587053f98c7e9938c8ede1c97cfe4a986220"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.042",
+      "bytes": 20971520,
+      "sha256": "3cdf05dec1274bb929d157d589bf513ef5e786e7d37dd3415291c44a0c3544a5"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.043",
+      "bytes": 20971520,
+      "sha256": "af0e6472ce1f09c072be0bf9124f8483b28268e2ef22f7013c2fb78936f0cf35"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.044",
+      "bytes": 20971520,
+      "sha256": "ff0e1da1aa45b4f260d2b173d7eb64ae756f2af8bcd071e6678d9c8bd9d0f5b0"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.045",
+      "bytes": 20971520,
+      "sha256": "8e11f602d4ff00367691d005fed997e24fd85967504daa44c29dd16cfd87562c"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.046",
+      "bytes": 20971520,
+      "sha256": "c05ecc45912e813fe7b835ff56b739528b4a8cfb285bf8d185e85e38a50784d9"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.047",
+      "bytes": 20971520,
+      "sha256": "5237cf4fadf58fb8ea5db8f8fe4d7c37e11368e4230db14c92e9270cc7578407"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.048",
+      "bytes": 20971520,
+      "sha256": "5868b67a752305fbb2398d6d78ecb905dc03efb8da4d1fe45554e498c6d14158"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.049",
+      "bytes": 20971520,
+      "sha256": "22673eafe59c136f659af2986cdf3707449d0963fef5e107c665c8efb459574f"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.050",
+      "bytes": 20971520,
+      "sha256": "38841b0c8d5534400f7cf25769783616ff1f49b2bd9d4f4284bcc4e12c5450a9"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.051",
+      "bytes": 20971520,
+      "sha256": "7c42cc10661945698bd8bab6e7a5114cc340fbfabb094b5535607b21a63f4d90"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.052",
+      "bytes": 20971520,
+      "sha256": "b63f8759801ad15d589eeaf75bde6cbccfe536257cb1294a51cbd40310378417"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.053",
+      "bytes": 20971520,
+      "sha256": "4bc12c0577836583635303c226775e6c3b56b95597a89578151447e22111ffac"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.054",
+      "bytes": 20971520,
+      "sha256": "3eb85fb226cae3ef2eeed1f0d7c391ff261e4329e4d7ffd1cf5c33e9fdf0558f"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.055",
+      "bytes": 20971520,
+      "sha256": "530ff12127694517a00edebf9ff7f12659eddc04ee688574786bea7769f5a351"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.056",
+      "bytes": 20971520,
+      "sha256": "1c501cdec134fea7550bd93f037e68ce9e876b42ffcd821e4e00e64e470428b2"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.057",
+      "bytes": 20971520,
+      "sha256": "b8a663d2ffedd1fa3293e996ce59e4e0adab9a48a8a5cbbd7eec72f80e40217d"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.058",
+      "bytes": 20971520,
+      "sha256": "1ae72ddd9c8428a18d378744032cf4b6cc38cad26a394737fe91c30d2c7fddec"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.059",
+      "bytes": 20971520,
+      "sha256": "ea859e3d65f0d1fe2350c65bcbeec1e4fa2598a00e1a45f8c29ef20605752b57"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.060",
+      "bytes": 20971520,
+      "sha256": "85331784f718f566ffd5ffadbbe9165c1a2246b610355449b10965001f79adc5"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.061",
+      "bytes": 20971520,
+      "sha256": "e106dd831c4bfb8580f2a0b46e3ff054cf0c62a58a0b09fc3c0ea01ea7d298f0"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.062",
+      "bytes": 20971520,
+      "sha256": "94d7361333e33cac55bccd549998600afb99cc7e545d925b16ba7f3ee40b6d6e"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.063",
+      "bytes": 20971520,
+      "sha256": "c2772f6b5883c13b7af259d1c202aa243253fd3181af86aec06e589657b81dbe"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.064",
+      "bytes": 20971520,
+      "sha256": "55700655dbc4ff46efaa271537ff5a3a3e7c4e13b710503bd8e130c454ebb847"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.065",
+      "bytes": 20971520,
+      "sha256": "0539d599e8d7695ca46af07331593718cde5b60e199ff7cd7d1b7cf5e307f11d"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.066",
+      "bytes": 20971520,
+      "sha256": "e0c0b3beb1b5b04bb2367ee7bb413ea88b806471104d1a2129200dc0498191bd"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.067",
+      "bytes": 20971520,
+      "sha256": "58daffffd17125cd8d33b9b1534b77b384e53c15fa600ac1c26a3b0f6eeb108d"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.068",
+      "bytes": 20971520,
+      "sha256": "f248e3a4ddae35aff9901e5d2ea60b44cbab53fa46fac3221cdcde2260750711"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.069",
+      "bytes": 20971520,
+      "sha256": "0071b69b165391cec4eec940dd84e94842c8ec1fbe94f6d05303c494b7f26318"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.070",
+      "bytes": 20971520,
+      "sha256": "db5d0fb4f0ea0544154158e44a413976b57f39ecad72b494f38be6a446f70532"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.071",
+      "bytes": 20971520,
+      "sha256": "f54fc819e53b938be7bf222702b8d4150c52bf63cde77e111a3fa1462548fad8"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.072",
+      "bytes": 20971520,
+      "sha256": "0fc5a9fa48f57127d61cb51ef75e9d2d5006c9cf443ce68e5aa67bac2766799e"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.073",
+      "bytes": 20971520,
+      "sha256": "7bacf6bb6ee951bad0691fa9445a587a93a435cad2eedeba584508bb3aa7e606"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.074",
+      "bytes": 20971520,
+      "sha256": "083e2a01d54c5dde3fa0c83ad478a9d7428858d94383d987b5917a69ac68a955"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.075",
+      "bytes": 20971520,
+      "sha256": "13ddced1683ad1d3746e99b9c4aa1df32b83d05ed30e7be15a873624e3298662"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.076",
+      "bytes": 20971520,
+      "sha256": "13912421f90d97629f03d6ace4b719bbed84eaa9089978a779ab0880380122d0"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.077",
+      "bytes": 20971520,
+      "sha256": "cb9b960cb56454b2b7f7fc9c03b72d38b4e0001241d744c10840cc9df3ce54cd"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.078",
+      "bytes": 20971520,
+      "sha256": "d92a99b8db31cc5eb8b332d8fdcea44955e571bc834ccabcb3f5bdd6e8c445ef"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.079",
+      "bytes": 20971520,
+      "sha256": "aaf0bec028c7d80c57d4b4ebf587e7df38f9896da089e573035248eb772c7caa"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.080",
+      "bytes": 20971520,
+      "sha256": "6fe1a6c226379daf4ed3f2ac6147b236ecdb08569a9c75295436163d07fb31a9"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.081",
+      "bytes": 20971520,
+      "sha256": "4981a6e56f3205fb9d5e7d8ad476494da31e23d191ec8d59d186bcfefe0d508a"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.082",
+      "bytes": 20971520,
+      "sha256": "1e69fb46a7ac80451da9bdacda729df389a5bae60a009d63ffac99d1baa07967"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.083",
+      "bytes": 20971520,
+      "sha256": "c0f55c1f0579aeffb6c0279a2238a81d54795734b00464968bab19a2726a17ac"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.084",
+      "bytes": 20971520,
+      "sha256": "2ac3d64ddf75dc847ecabaeba13d03d5ccb3e571e41b07b332b385c36e78f412"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.085",
+      "bytes": 20971520,
+      "sha256": "c6af708900d7dfe4857c7ba5d3d25d75e72b5bf723cae576b7befe1050d38ce5"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.086",
+      "bytes": 20971520,
+      "sha256": "8ba6e688b1e5946974a736febfd68159f44cd0af98089e6f22d81f6694d9319c"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.087",
+      "bytes": 20971520,
+      "sha256": "f415fbf7ab81b4539155d9de2f3a67350c78599a1688bcf4cd5b60c4fbe10cd8"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.088",
+      "bytes": 20971520,
+      "sha256": "9557991f67c43bf08efc7f6ae50dd5b5ff4dad49d2a321119ceb44fc9296e790"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.089",
+      "bytes": 20971520,
+      "sha256": "7f7f5e52eaae8d54b9e74f17785f776051b0f7876f71aba13a0d1a21a800db41"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.090",
+      "bytes": 20971520,
+      "sha256": "886198351fcde838aeec3b385ac3305639379f08b3dd6970b257e85c6d99fcac"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.091",
+      "bytes": 20971520,
+      "sha256": "8030befcd47003e2084c474f1c914f8085a1d7e1b3a7825b80bb13d3d708c6d4"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.092",
+      "bytes": 20971520,
+      "sha256": "5e5d58b87ed08d7c536b88004d2bf9e903bfa1177ea25a9106e94fa1486c26df"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.093",
+      "bytes": 20971520,
+      "sha256": "d406b70d68e0f9d2b24ff3d1aaefa707fd921d3e07896fe7cea9ac0f3ff9d812"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.094",
+      "bytes": 20971520,
+      "sha256": "0e91bd9f0a322e81a6388b33257985c479ef9810f0db72ca654755248831c02c"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.095",
+      "bytes": 20971520,
+      "sha256": "a58135282d7e84f9c2b112ce12d9eccb0fda2ee8653f681682a9e68d00fd96fa"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.096",
+      "bytes": 20971520,
+      "sha256": "68bec6afd54faeb20f51d03484e04116e0401f2445152615337e55a9062ce4b7"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.097",
+      "bytes": 20971520,
+      "sha256": "193b0d61a34fcf43a082138e12e25068f3262a7f5e59906b1bd8abdee9d167b0"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.098",
+      "bytes": 20971520,
+      "sha256": "411d4795559275e15f9f34ab5b4f2d2558d9ca893fa86f5ebeeaca87d7c688d6"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.099",
+      "bytes": 20971520,
+      "sha256": "46710f3a4a4400580a2254436baee84a0928991fe83857363d1e0e5756e24d1f"
+    },
+    {
+      "file": "COCO_FINAL_CLEAN_SEPARATED_REVIEW_2026-11-28.tar.gz.100",
+      "bytes": 3156296,
+      "sha256": "9a30182f6fe9b6447bad61d17ebd889213544188afa816f96316657ee12ab286"
+    }
+  ]
+}

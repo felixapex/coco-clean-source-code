@@ -1,0 +1,203 @@
+/* Matbox interaction-only styles. The captured theme remains the visual source of truth. */
+
+header.header:has(details[open] [data-menu-panel]) {
+  z-index: 1000 !important;
+}
+
+.navPages-item.matbox-mega-open > .navPage-subMenu {
+  display: block !important;
+  top: 48px !important;
+  height: auto !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+  z-index: 1000 !important;
+}
+
+[data-matbox-notice] {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 2147483647;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  max-width: min(420px, calc(100vw - 40px));
+  padding: 14px 18px;
+  border: 1px solid rgba(255,255,255,.2);
+  border-radius: 8px;
+  background: #171713;
+  color: #fff;
+  font: 14px/1.4 system-ui, sans-serif;
+  box-shadow: 0 12px 40px rgba(0,0,0,.28);
+  opacity: 0;
+  transform: translateY(12px);
+  pointer-events: none;
+  transition: opacity .18s ease, transform .18s ease;
+}
+
+[data-matbox-notice].is-visible { opacity: 1; transform: translateY(0); pointer-events: auto; }
+[data-matbox-notice][data-kind="success"] { background: #214a35; }
+[data-matbox-notice][data-kind="error"] { background: #752d2d; }
+[data-matbox-notice] button { border: 0; background: transparent; color: inherit; font-size: 20px; cursor: pointer; }
+
+[data-drawer-menu].is-open,
+[data-search-drawer].is-open,
+[data-localization-drawer].is-open,
+[data-cart-drawer].is-open {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+[data-drawer-menu].is-open [data-drawer-menu-panel],
+[data-search-drawer].is-open [data-search-drawer-panel],
+[data-localization-drawer].is-open [data-localization-drawer-panel],
+[data-cart-drawer].is-open [data-cart-drawer-panel] {
+  transform: translate3d(0,0,0) !important;
+  visibility: visible !important;
+}
+
+.matbox-drawer-menu-open,
+.matbox-search-open,
+.matbox-localization-open,
+.matbox-cart-open { overflow: hidden; }
+
+#custom-cart.matbox-coco-cart-drawer {
+  position: fixed !important;
+  inset: 0 !important;
+  z-index: 2147483000 !important;
+  display: none !important;
+  justify-content: end;
+  background: rgba(0,0,0,.55);
+}
+#custom-cart.matbox-coco-cart-drawer.is-open { display: grid !important; }
+.matbox-coco-cart-panel {
+  width: min(520px, 100vw);
+  min-height: 100%;
+  padding: 36px;
+  overflow: auto;
+  background: #fff;
+  color: #171713;
+  box-sizing: border-box;
+}
+.matbox-coco-cart-close {
+  float: right;
+  border: 0;
+  background: transparent;
+  font: 32px/1 sans-serif;
+  cursor: pointer;
+}
+.matbox-coco-cart-close::before { content: '×'; }
+.matbox-coco-cart-continue {
+  border: 0;
+  border-bottom: 1px solid currentColor;
+  padding: 0 0 4px;
+  background: transparent;
+  font: inherit;
+  cursor: pointer;
+}
+
+.matbox-consultation-open { overflow: hidden; }
+[data-consultation-modal] {
+  position: fixed;
+  inset: 0;
+  z-index: 2147483100;
+  display: none;
+  place-items: center;
+  padding: clamp(16px, 4vw, 48px);
+  box-sizing: border-box;
+}
+[data-consultation-modal].is-open { display: grid; }
+.matbox-consultation-backdrop {
+  position: absolute;
+  inset: 0;
+  border: 0;
+  background: rgba(0,0,0,.62);
+  cursor: pointer;
+}
+.matbox-consultation-panel {
+  position: relative;
+  z-index: 1;
+  width: min(620px, 100%);
+  max-height: min(720px, calc(100vh - 32px));
+  overflow: auto;
+  padding: clamp(28px, 6vw, 64px);
+  background: #fff;
+  color: #171713;
+  box-sizing: border-box;
+}
+.matbox-consultation-panel h2 { margin: 0 48px 20px 0; font: 400 clamp(32px, 5vw, 56px)/1.05 Georgia, serif; }
+.matbox-consultation-panel p { margin: 0 0 32px; font: 16px/1.6 system-ui, sans-serif; }
+.matbox-consultation-close {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  border: 0;
+  background: transparent;
+  font: 32px/1 sans-serif;
+  cursor: pointer;
+}
+.matbox-consultation-close::before { content: '×'; }
+.matbox-consultation-continue {
+  width: 100%;
+  border: 1px solid #171713;
+  padding: 15px 20px;
+  background: #171713;
+  color: #fff;
+  font: 600 14px/1.2 system-ui, sans-serif;
+  cursor: pointer;
+}
+
+[data-matbox-cart-items] { display: grid; gap: 12px; padding: 16px 24px; }
+.matbox-cart-item { display: grid; grid-template-columns: 64px 1fr auto; gap: 12px; align-items: center; padding-bottom: 12px; border-bottom: 1px solid rgba(0,0,0,.12); }
+.matbox-cart-item img { width: 64px; height: 64px; object-fit: cover; }
+.matbox-cart-item div { display: grid; gap: 5px; }
+.matbox-cart-item button { border: 0; background: transparent; text-decoration: underline; cursor: pointer; }
+.is-matbox-selected [data-bundle-toggle-button] { outline: 2px solid currentColor; outline-offset: 2px; }
+
+[data-subscription-popup].is-open {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  z-index: 2147483000 !important;
+}
+
+[data-subscription-popup].is-open .subscription-popup__overlay {
+  z-index: 0 !important;
+}
+
+[data-subscription-popup].is-open .subscription-popup__dialog,
+[data-subscription-popup].is-open .subscription-popup__close,
+[data-subscription-popup].is-open [data-subscription-popup-dismiss] {
+  position: relative;
+  z-index: 2 !important;
+  pointer-events: auto !important;
+}
+.matbox-store-active { outline: 2px solid currentColor; outline-offset: 3px; }
+gmp-advanced-marker.matbox-store-active { z-index: 999 !important; filter: drop-shadow(0 0 5px rgba(0,0,0,.65)); }
+.matbox-generated-store { list-style: none; }
+.strmpr-map.matbox-map-fullscreen { position: fixed !important; inset: 0 !important; width: 100vw !important; height: 100vh !important; z-index: 2147483000 !important; background: #e5e3df; }
+
+.matbox-view-in-store-open { overflow: hidden; }
+#view-in-store-drawer.vis-drawer { display: none !important; }
+#view-in-store-drawer.vis-drawer.is-open {
+  position: fixed !important;
+  inset: 0 !important;
+  z-index: 2147483100 !important;
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+#view-in-store-drawer .vis-drawer__overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,.45);
+}
+#view-in-store-drawer .vis-drawer__panel {
+  position: absolute;
+  inset: 0 0 0 auto;
+  width: min(520px, 100%);
+  overflow: auto;
+  background: #fff;
+}

@@ -1,0 +1,12 @@
+{
+  "pass": true,
+  "failures": [],
+  "coverage": {
+    "components": 9472,
+    "blocks": 503977,
+    "leafBlocks": 197811,
+    "blockContainers": 315638,
+    "maxBlocksPerContainer": 50,
+    "pageReferences": 9472
+  }
+}

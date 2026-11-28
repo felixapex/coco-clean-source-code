@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "verifiedAt": "2026-11-28T15:05:00+08:00",
+  "importerCore": {
+    "testedFromFinalDeliveredFiles": true,
+    "npmCi": true,
+    "tests": 653,
+    "passed": 653,
+    "failed": 0,
+    "checkTests": 3,
+    "checkPassed": 3,
+    "checkFailed": 0
+  },
+  "combinedSource": {
+    "assembledFromFinalDeliveredFiles": true,
+    "npmCi": true,
+    "typescriptCommand": "npm run check",
+    "typescriptPassed": true
+  },
+  "runtime": {
+    "requiredNode": ">=22.13 <23",
+    "verificationHostNode": "v24.18.0",
+    "engineWarningObserved": true
+  },
+  "browserPolicy": {
+    "microsoftEdgeUsed": false,
+    "isolatedChromeChromiumOnly": true
+  }
+}

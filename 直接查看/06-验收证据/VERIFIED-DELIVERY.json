@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T01:06:21.599Z",
+  "pass": true,
+  "summary": {
+    "replayFiles": 1674,
+    "pages": 1682,
+    "components": 4278
+  },
+  "gates": {
+    "checkpointIntegrity": true,
+    "editableContract": true,
+    "routeLinks": true,
+    "imageRecovery": true,
+    "validationIssues": true,
+    "componentLibrary": true
+  }
+}

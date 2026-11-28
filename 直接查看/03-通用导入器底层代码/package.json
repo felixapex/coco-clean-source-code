@@ -1,0 +1,22 @@
+{
+  "name": "matbox-importer-core",
+  "version": "2.9.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13 <23"
+  },
+  "dependencies": {
+    "pngjs": "7.0.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "test": "node --test --test-concurrency=1 tests/*.test.mjs",
+    "check": "node --test tests/self-contained-build-source.test.mjs tests/source-dependency-audit.test.mjs tests/edge-launch-safety.test.mjs",
+    "rebuild:web": "node scripts/run-20-minute-pipeline.mjs --platform=web",
+    "rebuild:shopify": "node scripts/run-20-minute-pipeline.mjs --platform=shopify",
+    "rebuild:wix": "node scripts/run-20-minute-pipeline.mjs --platform=wix"
+  }
+}

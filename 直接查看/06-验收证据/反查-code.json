@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "passName": "code",
+  "passed": true,
+  "verifiedAt": "2026-11-28T07:00:11.382Z",
+  "details": {
+    "cocoFiles": 43,
+    "coreFiles": 276,
+    "cocoExtensions": {
+      ".json": 4,
+      ".ts": 2,
+      ".css": 5,
+      ".tsx": 18,
+      ".js": 4,
+      ".jpg": 6,
+      ".webp": 3,
+      ".png": 1
+    },
+    "coreExtensions": {
+      ".json": 2,
+      ".mjs": 272,
+      ".ps1": 1,
+      ".js": 1
+    },
+    "coreDocuments": 7,
+    "cocoDocuments": 4
+  }
+}

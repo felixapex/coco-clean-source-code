@@ -1,0 +1,28 @@
+{
+  "name": "matbox-reconstructed-site-poc",
+  "version": "2.9.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13 <23"
+  },
+  "dependencies": {
+    "pngjs": "7.0.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "test": "node --test --test-concurrency=1 tests/*.test.mjs",
+    "check": "tsc -p tsconfig.json --noEmit",
+    "build": "node scripts/build.mjs",
+    "promote:stage": "node scripts/promote-existing-stage.mjs",
+    "sanitize:published": "node scripts/sanitize-published-site.mjs",
+    "repair:manifests": "node scripts/repair-route-manifests.mjs",
+    "start": "node scripts/serve.mjs",
+    "rebuild:url": "node scripts/run-20-minute-pipeline.mjs",
+    "rebuild:shopify": "node scripts/run-20-minute-pipeline.mjs --platform=shopify",
+    "rebuild:wix": "node scripts/run-20-minute-pipeline.mjs --platform=wix",
+    "rebuild:web": "node scripts/run-20-minute-pipeline.mjs --platform=web"
+  }
+}

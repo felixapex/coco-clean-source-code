@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "status": "local-review-not-uploaded",
+  "createdAt": "2026-11-28T06:58:14.231Z",
+  "canonicalProject": "实测/CocoRepublic_2026-10-22/generated-site-v1",
+  "website": {
+    "distFiles": 26996,
+    "replayHtml": 1674
+  },
+  "cocoSource": {
+    "files": 43
+  },
+  "importerCore": {
+    "files": 276
+  },
+  "documentation": {
+    "coco": 4,
+    "core": 7
+  },
+  "verification": {
+    "structureAudit": true,
+    "codeAndDocumentationAudit": true,
+    "websiteRuntimeAudit": true,
+    "importerCoreTests": "653/653",
+    "importerCoreSelfChecks": "3/3",
+    "combinedTypeScriptCheck": true
+  },
+  "excluded": [
+    "historical maintenance tools",
+    "old candidates",
+    "node_modules",
+    "browser caches",
+    "temporary screenshots",
+    "compressed source archives"
+  ]
+}

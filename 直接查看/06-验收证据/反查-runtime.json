@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "passName": "runtime",
+  "passed": true,
+  "verifiedAt": "2026-11-28T07:00:28.544Z",
+  "details": {
+    "microsoftEdgeUsed": false,
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "bytes": 647749,
+        "pass": true
+      },
+      {
+        "route": "/bedroom/storage/dressers",
+        "status": 200,
+        "bytes": 1412709,
+        "pass": true
+      },
+      {
+        "route": "/-camden-bedside-table.html?sku=707941",
+        "status": 200,
+        "bytes": 762980,
+        "pass": true
+      },
+      {
+        "route": "/design-now-pay-later",
+        "status": 200,
+        "bytes": 503696,
+        "pass": true
+      }
+    ]
+  }
+}

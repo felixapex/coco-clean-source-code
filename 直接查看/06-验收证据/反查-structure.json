@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "passName": "structure",
+  "passed": true,
+  "verifiedAt": "2026-11-28T06:59:51.410Z",
+  "details": {
+    "topDirectories": [
+      "01-COCO完整网站",
+      "02-COCO网站源代码",
+      "03-通用导入器底层代码",
+      "04-COCO网站开发文档",
+      "05-通用底层开发文档",
+      "06-验收证据"
+    ],
+    "allFiles": 27338,
+    "distFiles": 26996,
+    "replayHtml": 1674,
+    "forbiddenFiles": 0
+  }
+}

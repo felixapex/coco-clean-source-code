@@ -1,0 +1,18 @@
+{
+  "pass": true,
+  "sourceOrigins": [
+    "https://www.cocorepublic.com.au",
+    "https://cocorepublichelp.zendesk.com",
+    "https://republicpropertystyling.com.au"
+  ],
+  "inspectedPageCount": 1682,
+  "inspectedLinkCount": 565567,
+  "escapedCapturedRouteCount": 0,
+  "escapedSourceRouteCount": 0,
+  "uncapturedLocalRouteCount": 0,
+  "uncapturedLocalRoutes": [],
+  "failures": [],
+  "uniqueMissingTargets": [],
+  "sourceProtectedTargets": [],
+  "unresolvedResourceTargets": []
+}
